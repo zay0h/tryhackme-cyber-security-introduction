@@ -15,6 +15,10 @@ Ethical hackers use offensive security techniques to test the security of applic
 - How vulnerabilities can be exploited
 - The importance of penetration testing
 
+- ## Lab Completion
+
+![Offensive Security Completed](offensive-security-room-completed.png)
+
 ## Platform
 
 TryHackMe  
