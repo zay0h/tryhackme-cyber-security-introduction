@@ -10,6 +10,10 @@ This folder contains my notes and labs from the **Network Fundamentals module** 
 - Packets & Frames
 - Extending Your Network
 
+- ## Lab Completion
+
+![What is Networking Completed](what-is-networking-room-completed.png)
+
 ## Platform
 
 TryHackMe  
