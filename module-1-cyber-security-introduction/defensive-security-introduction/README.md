@@ -15,7 +15,24 @@ Security professionals working in defensive roles monitor networks, analyze susp
 - The importance of monitoring and detection
 - Basic incident response concepts
 
+- ## Lab Completion
+
+![Defensive Security Completed](defensive-security-room-completed.png)
+
+## Skills Practiced
+
+- Security monitoring
+- Incident detection
+- Blue Team fundamentals
+
 ## Platform
 
 TryHackMe  
 https://tryhackme.com
+
+
+
+
+
+
+
